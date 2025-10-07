@@ -1,5 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Se quiser, pode adicionar estilos globais extras aqui */
+/* src/styles/globals.css */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #f8f6f0;
+}
