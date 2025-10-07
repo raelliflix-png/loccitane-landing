@@ -2,6 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: 'Playfair Display', serif;
-}
+/* Se quiser, pode adicionar estilos globais extras aqui */
